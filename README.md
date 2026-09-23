@@ -1,13 +1,9 @@
 # RMTI Sandbox — Disaster Science
-
+drmarolla/rmti-disaster-science-sandbox   https://zenodo.org/badge/DOI/10.5281/zenodo.22909082.svg
 **An interactive reference implementation of the Risk Mechanism Theory Index (RMTI) for urban, infrastructure and disaster-risk assessment.**
 By Dr. Cesar Marolla
 
-<!-- DOI badge: after your first Zenodo release, replace XXXXXXX with your concept DOI number and delete the comment markers around the line below.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
--->
-
-### ▶ Open the live sandbox: [https://drmarolla.github.io/rmti-disaster-science-sandbox/](https://drmarolla.github.io/rmti-disaster-science-sandbox/)
+### ▶ Open the live sandbox: [https://drmarolla.github.io/rmti-disaster-science-sandbox/]
 
 > **Educational and research use only.** This sandbox is a teaching companion. Its scores are relative, rubric-based indices, not forecasts, engineering assessments or actuarial figures. It is **not** a substitute for a professionally validated hazard or risk assessment, and it is not an emergency-management or life-safety decision tool. Please read [DISCLAIMER.md](DISCLAIMER.md).
 
