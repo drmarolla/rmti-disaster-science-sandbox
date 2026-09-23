@@ -1,0 +1,27 @@
+{
+  "upload_type": "software",
+  "title": "RMTI Sandbox — Disaster Science: Reference Implementation of the Risk Mechanism Theory Index",
+  "creators": [
+    {
+      "name": "Marolla, Cesar",
+      "orcid": "0000-0001-8498-7380"
+    }
+  ],
+  "description": "<p>Interactive, self-contained reference implementation (a single HTML file) of the Risk Mechanism Theory Index (RMTI) for urban, infrastructure and disaster-risk assessment. It implements the RMTI equations R = L·E·V·(1−ρ) and EAL = L·C·(1−ρ), the fixed five-tier scale, and a log-normalized exposure helper, with six worked city examples and a Custom / Your Field mode in which users name and score their own field.</p><p><strong>Intended use and limitations.</strong> Educational and research use only. Scores are relative, rubric-based indices, not forecasts, engineering assessments or actuarial figures, and the worked examples are teaching illustrations rather than official assessments. The tool is not a substitute for professionally validated hazard and risk assessments.</p><p>An independent academic tool; not an official product of the World Bank Group or any other institution. A separate sandbox covers oncology and public-health surveillance.</p>",
+  "keywords": [
+    "Risk Mechanism Theory Index",
+    "RMTI",
+    "disaster risk",
+    "urban resilience",
+    "climate adaptation",
+    "vulnerability",
+    "expected annual loss",
+    "risk modeling",
+    "teaching tool",
+    "interactive calculator"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Educational and research use only. Independent academic tool. Released under the MIT License."
+}
